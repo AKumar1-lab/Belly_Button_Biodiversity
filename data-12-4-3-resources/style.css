@@ -1,0 +1,10 @@
+.tag{
+    font-family:inherit;
+    font-size: 1rem;
+    }
+    
+    .jumbotron {
+        background-image: url("https://ehonami.blob.core.windows.net/media/2014/12/ingest-millions-bacteria.jpg");
+        background-size: 100% 100%;
+        text-align: center;
+    }
